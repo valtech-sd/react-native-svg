@@ -1,5 +1,5 @@
 {
-  "version": "12.2.99999",
+  "version": "12.2.0",
   "name": "react-native-svg",
   "description": "SVG library for react-native",
   "homepage": "https://github.com/react-native-community/react-native-svg",
@@ -16,6 +16,7 @@
     "__tests__",
     "android",
     "apple",
+    "windows",
     "elements",
     "lib",
     "src",
